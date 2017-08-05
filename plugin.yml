@@ -1,0 +1,7 @@
+name: CustomTitles
+main: com.firefliesalco.www.TitleMain
+version: 1.0
+commands:
+  title:
+    description: Title command
+    usage: /title (arguments) 
